@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Presentation_Reactivos/static/css/main.3863b43b.css",
-    "main.js": "/Presentation_Reactivos/static/js/main.2045c275.js",
+    "main.js": "/Presentation_Reactivos/static/js/main.426de1a7.js",
     "static/js/787.fd238583.chunk.js": "/Presentation_Reactivos/static/js/787.fd238583.chunk.js",
     "index.html": "/Presentation_Reactivos/index.html",
     "main.3863b43b.css.map": "/Presentation_Reactivos/static/css/main.3863b43b.css.map",
-    "main.2045c275.js.map": "/Presentation_Reactivos/static/js/main.2045c275.js.map",
+    "main.426de1a7.js.map": "/Presentation_Reactivos/static/js/main.426de1a7.js.map",
     "787.fd238583.chunk.js.map": "/Presentation_Reactivos/static/js/787.fd238583.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3863b43b.css",
-    "static/js/main.2045c275.js"
+    "static/js/main.426de1a7.js"
   ]
 }
