@@ -14,7 +14,7 @@ const Card = ({member}) => {
       <div className={styleCard.boxImg} >
         <p className={styleCard.rol}>{member.rol}</p>
         <div >
-          <img src="/img/people1.png" className={styleCard.img} alt="img"/>    
+          <img src="../img/people1.png" className={styleCard.img} alt="img"/>    
         </div>
       </div>
 
